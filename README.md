@@ -61,7 +61,13 @@ The dataset is structured into a clean Star Schema comprising **2 Fact Tables** 
 
 ## 🧮 Custom DAX Measures Table (`measures_`)
 Centralized inside a dedicated measure table:
-- **Time Intelligence:** `Sales PY`, `Sales YoY %`
+- **Time Intelligence:** `Sales PY`, `Sales YoY %`, `Return YoY Label`
 - **Core Financials:** `Total Sales`, `Total Profit`, `Profit Margin %`, `Total Cost`
 - **Customer Metrics:** `ARPC`, `Total Customer`, `Avg order value`
 - **Quality & Returns:** `Total Returns Quantity`, `Return Rate %`
+
+---
+
+## 🔗 Project Resources & Live Files
+📁 **Access Full Project Files & Documentation (Power BI .pbix & Reports):**  
+👉 [Google Drive Project Folder](https://drive.google.com/drive/folders/1_4GbuYj-UvoSdRTT8sEnX6Do0-zYk2te?usp=sharing)
