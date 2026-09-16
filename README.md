@@ -53,7 +53,7 @@ Utilizes Power BI's AI Decomposition Tree to trace sales drivers from Category d
 ## 🧩 Data Model Architecture (Star Schema)
 The dataset is structured into a clean Star Schema comprising **2 Fact Tables** and **4 Dimension Tables**:
 - `Fact_Sales` ── linked to `Dim_Customer`, `Dim_Product`, `Dim_Territory`, `Dim_Calendar`
-- `Fact_Returns` ── linked to `Dim_Product`, `Dim_Territory`, `Dim_Calendar`
+- `Fact_Returns` ── linked to `Dim_Product`,`Dim_Calendar`
 
 ![Data Model ERD](Data_Model_ERD.png)
 
