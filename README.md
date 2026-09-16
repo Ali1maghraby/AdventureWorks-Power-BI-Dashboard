@@ -6,7 +6,7 @@ An end-to-end Power BI analytics and data modeling project for **AdventureWorks 
 
 ## 👤 Author
 - **Name:** Ali Maghraby
-- **Role:** Data Analyst / Business Intelligence Specialist
+- **Role:** Data Analyst / Computer science student
 - **Tooling:** Power BI Desktop, DAX, Data Modeling (Star Schema)
 
 ---
